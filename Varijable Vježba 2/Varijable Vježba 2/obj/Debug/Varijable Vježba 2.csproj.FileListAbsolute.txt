@@ -1,0 +1,7 @@
+C:\Users\Učenik 3\source\repos\Varijable Vježba 2\Varijable Vježba 2\bin\Debug\Varijable Vježba 2.exe.config
+C:\Users\Učenik 3\source\repos\Varijable Vježba 2\Varijable Vježba 2\bin\Debug\Varijable Vježba 2.exe
+C:\Users\Učenik 3\source\repos\Varijable Vježba 2\Varijable Vježba 2\bin\Debug\Varijable Vježba 2.pdb
+C:\Users\Učenik 3\source\repos\Varijable Vježba 2\Varijable Vježba 2\obj\Debug\Varijable Vježba 2.csprojAssemblyReference.cache
+C:\Users\Učenik 3\source\repos\Varijable Vježba 2\Varijable Vježba 2\obj\Debug\Varijable Vježba 2.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 3\source\repos\Varijable Vježba 2\Varijable Vježba 2\obj\Debug\Varijable Vježba 2.exe
+C:\Users\Učenik 3\source\repos\Varijable Vježba 2\Varijable Vježba 2\obj\Debug\Varijable Vježba 2.pdb
